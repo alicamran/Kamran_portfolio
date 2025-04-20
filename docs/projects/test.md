@@ -193,30 +193,30 @@ AI works like a future machine
 
 
 
-[assetImage]: ../ebook_images/A_PM.png
-[image_a]: ../ebook_images/A_PM.png
-[Image_b]: ../ebook_images/B_PM.png 
-[Image_c]: ../ebook_images/c_PM.png
-[image_d]: ../ebook_images/d_PM.png
-[image_e]: ../ebook_images/e_PM.png
-[image_f]: ../ebook_images/f_PM.png
-[image_g]: ../ebook_images/g_PM.png
-[image_h]: ../ebook_images/h_PM.png
-[image_i]: ../ebook_images/i_PM.png
-[image_j]: ../ebook_images/j_PM.png
-[image_k]: ../ebook_images/k_PM.png
-[image_l]: ../ebook_images/l_PM.png
-[image_m]: ../ebook_images/m_PM.png
-[image_n]: ../ebook_images/n_PM.png
-[image_o]: ../ebook_images/o_PM.png
-[image_p]: ../ebook_images/p_PM.png
-[image_q]: ../ebook_images/q_PM.png
-[image_r]: ../ebook_images/r_PM.png
-[image_s]: ../ebook_images/s_PM.png
-[image_t]: ../ebook_images/t_PM.png
-[image_u]: ../ebook_images/u_PM.png
-[image_v]: ../ebook_images/v_PM.png
-[image_w]: ../ebook_images/w_PM.png
-[image_x]: ../ebook_images/x_PM.png
-[image_y]: ../ebook_images/y_PM.png
-[image_z]: ../ebook_images/z_PM.png
+
+[image_a]: ../assests/a.png
+[Image_b]: ../assests/b.png 
+[Image_c]: ../assests/c.png
+[image_d]: ../assests/d.png
+[image_e]: ../assests/e.png
+[image_f]: ../assests/f.png
+[image_g]: ../assests/g.png
+[image_h]: ../assests/h.png
+[image_i]: ../assests/i.png
+[image_j]: ../assests/j.png
+[image_k]: ../assests/k.png
+[image_l]: ../assests/l.png
+[image_m]: ../assests/m.png
+[image_n]: ../assests/n.png
+[image_o]: ../assests/o.png
+[image_p]: ../assests/p.png
+[image_q]: ../assests/q.png
+[image_r]: ../assests/r.png
+[image_s]: ../assests/s.png
+[image_t]: ../assests/t.png
+[image_u]: ../assests/u.png
+[image_v]: ../assests/v.png
+[image_w]: ../assests/w.png
+[image_x]: ../assests/x.png
+[image_y]: ../assests/y.png
+[image_z]: ../assests/z.png
