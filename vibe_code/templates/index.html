@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>Book Beauty Treatments</title>
+    <link rel="stylesheet" href="/static/css/style.css">
+</head>
+<body>
+    <form method="post" id="bookingForm">
+        {{ form.hidden_tag() }}
+        <h1>Book a Beauty Treatment</h1>
+
+        <label for="name">Name</label>
+        {{ form.name(id='name') }}
+
+        <label for="email">Email</label>
+        {{ form.email(id='email') }}
+
+        <label for="phone">Phone Number</label>
+        {{ form.phone(id='phone') }}
+
+        <label for="category">Treatment Category</label>
+        {{ form.category(id='category') }}
+
+        <label for="subcategory">Treatment Subcategory</label>
+        {{ form.subcategory(id='subcategory') }}
+
+        <label for="appointment">Appointment Date & Time</label>
+        {{ form.appointment(id='appointment') }}
+
+        <div class="summary" id="summary">
+            <p><strong>Selected:</strong> <span id="summaryText">None</span></p>
+        </div>
+
+        <button type="submit">Book Now</button>
+    </form>
+
+    <script>
+        const subcategoriesData = JSON.parse('{{ subcategories|tojson|safe }}');
+        const categoryEl = document.getElementById('category');
+        const subcategoryEl = document.getElementById('subcategory');
+        const summaryText = document.getElementById('summaryText');
+
+        function updateSubcategories() {
+            const cat = categoryEl.value;
+            const options = subcategoriesData[cat] || [];
+            subcategoryEl.innerHTML = '';
+            options.forEach(item => {
+                const opt = document.createElement('option');
+                opt.value = item[0];
+                opt.textContent = `${item[0]} - $${item[1]}`;
+                subcategoryEl.appendChild(opt);
+            });
+            updateSummary();
+        }
+
+        function updateSummary() {
+            const sub = subcategoryEl.value;
+            const cat = categoryEl.value;
+            if (sub) {
+                const price = subcategoriesData[cat].find(item => item[0] === sub)[1];
+                summaryText.textContent = `${sub} ($${price})`;
+            } else {
+                summaryText.textContent = 'None';
+            }
+        }
+
+        categoryEl.addEventListener('change', updateSubcategories);
+        subcategoryEl.addEventListener('change', updateSummary);
+        // Initialize on load
+        document.addEventListener('DOMContentLoaded', () => {
+            updateSubcategories();
+        });
+    </script>
+</body>
+</html>
