@@ -5,17 +5,33 @@
 ---
 ## 📝 Summary
 
-I am a skilled data professional with an MSc in Data Science, possessing comprehensive experience in data analysis, visualization, and data engineering. I have hands-on expertise in Python, SQL, Power BI, MS Fabric, and Microsoft Excel. I am committed to transforming complex data into actionable insights to support data-driven decision-making. I excel in building robust data analyses and delivering impactful analytics solutions tailored to business needs.
+Skilled Data Professional with an MSc in Data Science and proven data analysis and visualisation experience. Proficient in Python, SQL, Power BI, Microsoft Fabric, and Excel, with a strong track record 
+of delivering scalable data solutions that drive business intelligence and strategic decision-making. Adept 
+at transforming complex datasets into actionable insights through advanced analytics and visual 
+storytelling. Recognised for aligning data strategies with organisational goals to unlock performance 
+improvements.
 
 ---
 
 ## 💼 Experience
 
-### 📊 Freelancer Data Analyst | Data Scientist  
-**Retail Market Data Analysis**  
-_February 2022 – December 2024_  
-- Transitioned Global Super Store's data analysis from Excel to Power BI by designing an advanced dashboard, enabling superior business intelligence insights and optimizing performance across retail operations.  
-- Identified KPIs to enhance business performance.  
+### 📊 Freelancer Data Analyst | Data Scientist 
+February 2022 –  Present<br>
+**Project: Hospital Emergency Room data Analysis**
+
+- A Hospital Emergency Room Analysis Dashboard was developed using MS Excel to enhance 
+  efficiency and provide key insights. The dashboard supports stakeholders in monitoring, analysing, and 
+  making informed decisions to improve patient management and service delivery 
+- Patient Admission Status: Show how many patients were admitted vs. not admitted. 
+- Patient Age Distribution: Group patients by age. 
+- Timeliness: Measure the percentage of patients seen within 30 minutes. 
+- Gender Analysis: Display the number of patients by gender. 
+- Department Referrals: Check which departments patients are referred to the most<br>
+
+**Project: Retail Market Data Analysis**        
+ 
+- Transitioned Global Super Store's data analysis from Excel to Power BI by designing an advanced dashboard, enabling superior business intelligence insights and optimising performance across retail operations.  
+- Identified KPIS to enhance business performance.  
 - Implemented MS Fabric using Power BI workspace with Azure Services.  
 - Connected Power BI to Azure Synapse Analytics, Azure Data Lake, and other Azure services.  
 
@@ -23,7 +39,7 @@ _February 2022 – December 2024_
 **City of London | London Forestry Agency (Joint Venture with the University of Surrey, UK)**  
 _Principal Aims and Objectives:_  
 - Determined the carbon stocks and fluxes in selected urban forests in London to evaluate their capacity for carbon sequestration.  
-- Researched the connection between the diversity of tree species, carbon sequestration, and urban woods.  
+- Researched the connection between tree species diversity, carbon sequestration, and urban woods.  
 - Assessed how well existing woodland management techniques are preserving biodiversity and increasing carbon sequestration.  
 - Provided policy and practical recommendations for improving carbon sequestration in urban forests.  
 
@@ -37,10 +53,10 @@ _July 2015 – September 2019_
 ### 🖥️ System/Database Engineer  
 **Interactive Group of Companies | Islamabad, Pakistan**  
 _March 2008 – February 2011_  
-- Worked in a highly sophisticated data center, one of the largest in Pakistan.  
+- Worked in a highly sophisticated data centre, one of the largest in Pakistan.  
 - Configured Jumpstart servers for installing multiple server networks.  
 - Managed Sun Ray Services (DTUs/Diskless Clients/Thin Clients) on Sun Servers in coordination with the Network Team.  
-- Troubleshot SGD and Sun Ray Services in the data center, managing issues both locally and remotely.  
+- Troubleshoot SGD and Sun Ray Services in the data center, managing issues both locally and remotely.  
 - Installed, configured, and tuned databases, and performed patch deployment/implementation in an RAC environment. Enhanced backup and recovery systems.  
 
 ---
@@ -59,6 +75,8 @@ _September 2002 – September 2006_
 
 ## 📜 Certifications & Licenses
 
+- **DSAAMP (Data Science to AI Agent Mentorship Program)             
+    continue By Condanics**                    April 2025
 - **Data Analysis Using Power BI**  
     CampusX | Live Online Class | _Issued: September 2024_  
 - **Microsoft Certified: Fabric Analytics Engineer Associate**  
