@@ -8,4 +8,4 @@ Helps stakeholders monitor, analyse & make smarter decisions for better patient 
 
 [Click Here to Download Dashboard in Excel][def]
 
-[def]: ../assets/Hopital_project.xlsx
+[def]: ./assets/Hopital_project.xlsx
