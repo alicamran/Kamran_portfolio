@@ -33,4 +33,4 @@ A Fool-Proof Future Learning Smart Things in a Simple Way
 <img src="../assets/Logo1.png" alt="Logo" width="200" align="right"/>
 
 
-[def]: ./assets/Hoptial_project.xlsx
+[def]: /assets/Hoptial_project.xlsx
