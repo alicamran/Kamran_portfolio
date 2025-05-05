@@ -14,7 +14,9 @@ For full list of Project and repositories visit: [My GitHub Profile](https://git
 ### 🩺 ER Dashboard in Excel to boost efficiency & insights!
 Helps stakeholders monitor, analyse & make smarter decisions for better patient care. ✅🚑
 
-[Click Here for Dashboard & Report view in Excel Format][def]
+
+[📥 Click Here to Download Excel Report](https://github.com/alicamran/Kamran_portfolio/raw/main/assets/Hospital_project.xlsx)
+
 
 #### 📊 Global Super Store Dashboard Migration Project.
 
