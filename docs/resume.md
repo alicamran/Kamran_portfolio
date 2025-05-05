@@ -17,6 +17,7 @@ improvements.
 
 ### 📊 Freelancer Data Analyst | Data Scientist 
 February 2022 –  Present<br>
+
 **Project: Hospital Emergency Room data Analysis**
 
 - A Hospital Emergency Room Analysis Dashboard was developed using MS Excel to enhance 

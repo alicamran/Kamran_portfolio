@@ -14,7 +14,11 @@ For full list of Project and repositories visit: [My GitHub Profile](https://git
 ### 🩺📊 ER Dashboard in Excel to boost efficiency & insights!
 Helps stakeholders monitor, analyse & make smarter decisions for better patient care. ✅🚑
 
+<**<<<<<< HEAD
+[Click Here for Dashboard & Report view in Excel Format](./assets/Hoptial project.xlsx)
+=======**
 [📊 Click Here to View Dashboard & Report in Excel Format](./assets/Hoptial_project.xlsx)
+>>>>>>> 645be3cc9590c589e204fab97f4fe296173bf48c
 
 [Click Here for Dashboard & Report view in Excel Format](./assets/Hoptial_project.xlsx)
 
