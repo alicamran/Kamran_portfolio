@@ -4,7 +4,7 @@
 ### 🩺 Hospital Emergency Room Dashboard in Excel to boost efficiency & insights!
 Helps stakeholders monitor, analyse & make smarter decisions for better patient care.
 
-[Click Here to Download Dashboard in Excel](https://github.com/alicamran/Kamran_portfolio/main/assets/Hospital_project.xlsx)
+[Click Here to Download Dashboard in Excel](./projects/hospital.md)
 
 ## Project-1
 
