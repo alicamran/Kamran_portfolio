@@ -15,7 +15,7 @@ For full list of Project and repositories visit: [My GitHub Profile](https://git
 Helps stakeholders monitor, analyse & make smarter decisions for better patient care. ✅🚑
 
 
-[📥 Click Here to Download Excel Report](https://github.com/alicamran/Kamran_portfolio/raw/main/assets/Hospital_project.xlsx)
+[📥 Click Here to Download Excel Report](https://github.com/alicamran/Kamran_portfolio/main/assets/Hospital_project.xlsx)
 
 
 #### 📊 Global Super Store Dashboard Migration Project.
