@@ -1,6 +1,6 @@
 # KAMRAN ALI
 
-📍 Woking GU229NJ UK | ✉️ alicamran@hotmail.com | [LinkedIn](https://linkedin.com/in/kamranaliuk)
+📍 Woking GU229NJ UK | ✉️ alicamran@hotmail.com | [LinkedIn](https://linkedin.com/in/kamranaliuk) [ResumeDownload](../assets/Kamran-Ali)
 
 ---
 ## 📝 Summary
