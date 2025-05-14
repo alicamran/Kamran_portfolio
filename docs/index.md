@@ -1,5 +1,5 @@
 # Welcome to the Data Science world 
-<img src="../assets/my_pic3.png" alt="Logo" width="300" align="right"/>
+<img src="../assets/my_pic3.png" alt="Logo" width="250" align="right"/>
 This is my portfolio website. Here you can find information about my projects, skills, and experience.
 
 For full list of Project and repositories visit: [My GitHub Profile](https://github.com/alicamran).
