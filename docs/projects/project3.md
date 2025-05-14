@@ -1,1 +1,0 @@
-<img src="../assets/Screenshot4.png" alt="Screenshot4" width="500"/>
