@@ -6,7 +6,7 @@
 
 
 
-I am a dedicated Data Analyst and Data Scientist with a Master’s in Data Science from the University of Surrey 🎓. As a freelancer on Upwork, I specialize in delivering data-driven solutions that empower businesses to make informed decisions and achieve measurable results.
+I am a dedicated Data Analyst and Data Scientist with a Master’s in Data Science from the University of Surrey 🎓. I specialize in delivering data-driven solutions that empower businesses to make informed decisions and achieve measurable results.
 
 🔧 **My Expertise**:
 I leverage a robust toolkit that includes Python, SQL, Power BI, Microsoft Excel, and cloud platforms like Azure and Google Cloud. From crafting insightful dashboards to optimizing data pipelines, I excel at transforming raw data into actionable insights.

@@ -11,22 +11,24 @@ For full list of Project and repositories visit: [My GitHub Profile](https://git
 
 
 ## Project layout
-### 🩺 ER Dashboard in Excel to boost efficiency & insights!
+### 🩺 Hospital Emergency Room Performance 
 Helps stakeholders monitor, analyse & make smarter decisions for better patient care. ✅🚑
 
 
-[📥 Click Here to Download Excel Report](https://github.com/alicamran/Kamran_portfolio/main/assets/Hospital_project.xlsx)
+[📥 Click Here for more information](./projects/hospital.md)
 
 
-#### 📊 Global Super Store Dashboard Migration Project.
+### 📊 Global Super Store Dashboard Migration Project.
+This project involves designing a comprehensive Power BI dashboard using data. The goal is to deliver a solution that offers:
+Actionable insights – enabling smarter, data-driven decision-making
 
-[Click here for Dashboad & Report view of Global Supper store](./projects/project1.md)
+[Click here for Dashboard & Report view of Global Super store](./projects/project1.md)
 
-#### 🌳CARBON SEQUESTRATION IN WOODLAND CITY OF LONDON
+### 🌳CARBON SEQUESTRATION IN WOODLAND CITY OF LONDON
 
-[Clik here for more details and report](./projects/project2.md)
+[Click here for more details and report](./projects/project2.md)
 
-#### 📖 eBook for kids 
+#### 📖 eBook for kids
 #### Title: A Fun Guide to the World of Artificial Intelligence for Kids (Ages 8-10)
 A Fool-Proof Future Learning Smart Things in a Simple Way 
 
@@ -37,4 +39,3 @@ A Fool-Proof Future Learning Smart Things in a Simple Way
 
  
 
-[def]: ./assets/Hoptial_project.xlsx

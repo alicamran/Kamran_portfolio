@@ -1,6 +1,6 @@
 # KAMRAN ALI
 
-📍 Woking GU229NJ UK | ✉️ alicamran@hotmail.com | [LinkedIn](https://linkedin.com/in/kamranaliuk) [ResumeDownload](../assets/Kamran-Ali-Resume.pdf)
+📍 Woking GU229NJ UK | ✉️ alicamran@hotmail.com | [LinkedIn](https://linkedin.com/in/kamranaliuk) | [Resume Download](../assets/Kamran-Ali-Resume.pdf)
 
 ---
 ## 📝 Summary
@@ -10,8 +10,6 @@ of delivering scalable data solutions that drive business intelligence and strat
 at transforming complex datasets into actionable insights through advanced analytics and visual 
 storytelling. Recognised for aligning data strategies with organisational goals to unlock performance 
 improvements.
-
----
 
 ## 💼 Experience
 
@@ -89,7 +87,7 @@ _September 2002 – September 2006_
 ## 🛠️ Skills
 
 - **Programming & Tools:** Python | SQL | Pandas | NumPy | MS Excel | MS Fabric  
-- **Data Engineering:** ETL Pipelines | ADF | ADLS Gen2 | SSMS | SSIS  
+- **Data Engineering:** ETL Pipelines | ADF | ADLS Gen2 | SSMS | SSIS | DevOps 
 - **Analytics & Visualization:** Data Visualization | Data Analysis | Seaborn | DAX Query | Power BI | Power Query  
 - **Business Intelligence:** Analytical Skills | Data Transformation | Data Integration | Datasets  
 - **Data Factory:** Synapse Engineering | Synapse Data Analysis | One Lake | Data Activator | Real-Time Data Analysis | Streaming Data Ingestion  
