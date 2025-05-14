@@ -4,6 +4,7 @@
 **M.Sc. Data Science**  
 **University of Surrey, United Kingdom**
 
+[Download PDF](../assets/Portfolio_Project_Report.pdf)
 ---
 
 ## 📆 Table of Contents

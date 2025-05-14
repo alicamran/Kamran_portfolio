@@ -60,14 +60,14 @@ markdown_extensions:
       emoji_generator: !!python/name:materialx.emoji.to_svg
 
 extra:
-  generator: false
+  generator : false
   social:
     - icon: fontawesome/brands/github
       link: https://github.com/kamranali
     - icon: fontawesome/brands/linkedin
       link: https://linkedin.com/in/kamranali
-    
-  footer: Kamran Ali
+      footer: "© 2025 Kamran Ali"
+      footer: Kamran Ali
 
 extra_css:
   - stylesheets/extra.css  # Optional: use if you want custom styles
